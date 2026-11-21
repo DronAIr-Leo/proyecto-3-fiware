@@ -157,4 +157,3 @@ La misma consulta se lanza sobre `co2` y `calidad_agua`, y todas filtran por tie
 
 ![Recuentos por measurement](evidencias/p10_recuentos.png)
 
-![Q3 con DISTINCT ON en los tres measurements](evidencias/p10_q3_distinct_on.png)Bit
